@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBzY3pyNHVxdHI5OXBmeGhtMnZyeDRvOGRoM2ZhcDlldXgxYzR1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif" width="150" height="150">
   <h1>Hey there, I'm Gaurav Neupane!</h1>
   <strong>A Full Stack Developer passionate about crafting digital experiences.</strong>
   <p>I'm a Computer Science student on a mission to engineer elegant, high-impact software solutions. I thrive on turning complex problems into simple, beautiful, and intuitive designs. My passion lies not just in writing code, but in building systems that solve real-world challenges.</p>
@@ -13,10 +13,6 @@
 * 🧠 Deepening my expertise in **Advanced Backend systems** and embracing the **DevOps** culture.
 * 🚀 Actively seeking to contribute to innovative **Open Source** projects.
 * 💡 Exploring the future of the web through **Web3** and the power of data with **AI & Machine Learning**.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Neupane&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Gaurav's GitHub Stats" />
-</div>
 
 ---
 
@@ -48,13 +44,13 @@ While technology is my primary passion, I also have a strong interest in the eng
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to connect with me!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">
+  <a href="https://www.linkedin.com/in/gaurav-neupane-37b778289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> &nbsp;
-  <a href="https://twitter.com/your-twitter-url" target="_blank">
+  <a href="https://x.com/NeupaneGaurav7" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a> &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:neupane.gaurav77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
